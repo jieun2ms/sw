@@ -10,6 +10,7 @@ top 명령어는 현재 OS의 상태를 나타내주는 CLI 어플리케이션�
 
 
 **top 명령어**
+
 ![top 명령어](https://github.com/jieun2ms/sw/assets/166901411/d171a998-5a4e-4e87-85e1-06a0d8c451ee)
 
 
